@@ -1,0 +1,20 @@
+{
+	"Areas": {
+		"Administration": "Administracao"
+	},
+	"Controllers": {
+		"AdministrationAccounts": "Contas",
+		"AdministrationRoles": "Permissoes"
+	},
+	"Actions": {
+		"AdministrationAccountsCreate": "Criar",
+		"AdministrationAccountsDetails": "Detalhes",
+		"AdministrationAccountsEdit": "Editar",
+		"AdministrationAccountsIndex": "Todas",
+		"AdministrationRolesCreate": "Criar",
+		"AdministrationRolesDelete": "Excluir",
+		"AdministrationRolesDetails": "Detalhes",
+		"AdministrationRolesEdit": "Editar",
+		"AdministrationRolesIndex": "Todas"
+	}
+}

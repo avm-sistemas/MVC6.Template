@@ -1,0 +1,28 @@
+{
+	"Headers": {
+		"Account": "Conta",
+		"Accounts": "Contas",
+		"Profile": "Perfil",
+		"Role": "Permissao",
+		"Roles": "Permissoes"
+	},
+	"Titles": {
+		"AdministrationAccountsCreate": "Criacao de Conta",
+		"AdministrationAccountsDetails": "Detalhes da Conta",
+		"AdministrationAccountsEdit": "Edicao de Detalhes da Conta",
+		"AdministrationAccountsIndex": "Contas",
+		"AdministrationRolesCreate": "Criacao de Regras",
+		"AdministrationRolesDelete": "Exclusao de Regras",
+		"AdministrationRolesDetails": "Detalhe da Regra",
+		"AdministrationRolesEdit": "Edicao de Regra",
+		"AdministrationRolesIndex": "Regras",
+		"AuthLogin": "Entrar",
+		"AuthRecover": "Recuperar",
+		"AuthReset": "Resetar",
+		"HomeError": "Erro",
+		"HomeIndex": "Home",
+		"HomeNotFound": "Nao Encontrado",
+		"ProfileDelete": "Exclusao de Perfil",
+		"ProfileEdit": "Edicao de Perfil"
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"Actions": {
+		"Copy": "Copiar",
+		"Create": "Criar",
+		"Delete": "Excluir",
+		"Details": "Detalhes",
+		"Edit": "Editar",
+		"Home": "Home",
+		"Language": "Linguagem",
+		"Login": "Entrar",
+		"Logout": "Sair",
+		"Profile": "Perfil",
+		"Recover": "Recuperar",
+		"Search": "Procurar",
+		"Submit": "Enviar"
+	},
+	"Strings": {
+		"All": "Todos",
+		"LostPassword": "Perdeu sua senha?",
+		"No": "Nao",
+		"NoDataFound": "Informação nao localizada",
+		"PageNotFound": "A pagina que voce procura nao existe",
+		"SystemError": "Ocorreu uma falha inesperada de sistema",
+		"Yes": "Sim"
+	}
+}

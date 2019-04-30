@@ -30,7 +30,12 @@
         "name": "Lietuvių",
         "culture": "lt-LT",
         "abbreviation": "lt"
-      }
+      },
+	  {
+		"name": "Português",
+		"culture": "pt-BR",
+		"abbreviation": "pt"
+	  }	  
     ]
   },
 

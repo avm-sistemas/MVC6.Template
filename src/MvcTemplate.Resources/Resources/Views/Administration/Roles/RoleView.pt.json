@@ -1,0 +1,10 @@
+{
+	"Titles": {
+		"Id": "Regra",
+		"Permissions": "Permissoes",
+		"Title": "Titulo"
+	},
+	"Validations": {
+		"UniqueTitle": "O nome desta regra ja existe."
+	}
+}
